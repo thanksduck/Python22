@@ -1,0 +1,12 @@
+print()
+print("############ answer 2  ##############")
+print("answer 2")
+str="google"
+str_count=str.count(g)
+print(str_count)
+str_count=str.count(o)
+print(str_count)
+str_count=str.count(l)
+print(str_count)
+str_count=str.count(e)
+print(str_count)

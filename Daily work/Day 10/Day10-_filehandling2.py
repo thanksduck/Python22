@@ -1,0 +1,7 @@
+f=open('test1.txt', 'a')
+f.writelines (["hello ", "world "]) 
+f.close()
+g=open('test1.txt', 'r') 
+print(g.read(5))
+g.seek(0)
+print(g.read(11))

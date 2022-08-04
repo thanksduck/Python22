@@ -1,0 +1,11 @@
+print('print')
+f=open('test1.txt', 'r+')
+f.write("Good morning")
+f.writelines (["harpreet\n", "kamal\n", "gurpreet\n"])
+# print(f.read())
+f.close()
+t=open('test1.txt', 'r')
+# print('char', t.read())  
+l=t.readlines()
+for x in 1:
+    print(x)

@@ -11,7 +11,6 @@ This is a simple yet powerful image or photo editing app build with **Python** ,
 ### Features
 
 - Easy to use
-- Can change image sharpness
 - Can change image brightness
 - Can change image contract
 - Can Flip image

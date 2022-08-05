@@ -11,6 +11,8 @@ This is a simple yet powerful image or photo editing app build with **Python** ,
 ### Features
 
 - Easy to use
+- Can Rotate image
+- Can add border in the image
 - Can change image brightness
 - Can change image contract
 - Can Flip image

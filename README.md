@@ -24,7 +24,7 @@ to use this project you need to clone via
 git clone https://github.com/thanksduck/Python22 photo-edit
 ```
 ```bash
- cd photo-edit/project/
+cd photo-edit/project/
 ```
 install PIL and tkinter if you have not already
 ```bash

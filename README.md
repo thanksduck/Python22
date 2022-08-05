@@ -16,6 +16,9 @@ This is a simple yet powerful image or photo editing app build with **Python** ,
 - Can change image contract
 - Can Flip image
 - Blur filter
+
+
+
 ![App Demo gif](https://github.com/thanksduck/Python22/blob/d16bcee13ec1efe52984a5020f108ced61129f55/project/demo.gif)
 
 ## Installation

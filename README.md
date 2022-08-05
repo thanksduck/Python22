@@ -39,4 +39,4 @@ after installing these modules the app is ready to run
 ```bash
 python3 app.py
 ```
-thanks to my friend for helping me sharing panda image it is so cute 😌
+thanks to my friend for helping me with sharing panda image it is sooo cute 😌
